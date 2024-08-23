@@ -1,7 +1,7 @@
 {
     "name":"WOBI",
     "symbol": "WOBI",
-    "description": "WOBI Token. Don't Worry just WOBI.",
+    "description": "WOBI Token",
     "image":"https://raw.githubusercontent.com/WOB-Interactive/sol_coins/main/WOBI_COIN/assets/wob_coin_image.png",
     "attributes": [
             {"trait_type": "Item", "value": "Special Token" }
