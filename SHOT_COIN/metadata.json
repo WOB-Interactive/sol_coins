@@ -1,0 +1,9 @@
+{
+    "name":"SHOT Token",
+    "symbol": "Shot",
+    "description": "SHOT GAME Token",
+    "image":"https://raw.githubusercontent.com/WOB-Interactive/sol_coins/main/SHOT_COIN/assets/shot_coin_image.png",
+    "attributes": [
+            {"trait_type": "Item", "value": "Special SHOT Game Token" }
+        ]
+}
