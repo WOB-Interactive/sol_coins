@@ -1,0 +1,33 @@
+{
+    "name": "The Shot",
+    "symbol": "WHTVR",
+    "description": "Great Avatar for the Shooter",
+    "seller_fee_basis_points": 1000,
+    "image":"https://raw.githubusercontent.com/WOB-Interactive/sol_coins/main/NFT_COLLECTION_1/assets/shot_img.png",    
+    "external_url": "https://twitter.com/albertrosa",
+    "attributes":
+    [
+        {
+            "trait_type": "shot",
+            "value": "Initial"
+        },
+    ],
+    "properties":
+    {
+        "files":
+        [
+            {
+                "uri": "https://raw.githubusercontent.com/WOB-Interactive/sol_coins/main/NFT_COLLECTION_1/assets/shot_img.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators":
+        [
+            {
+                "address": "2j91gGFiFG6mzaWtMakFqF1KZqXTHgDDEtnaigB73xv7",
+                "share": 100
+            }
+        ]
+    }
+}
